@@ -1,10 +1,5 @@
 <h1 align="center">HELLO WORLD</h1>
 
-<div float="left">
-<img align="left" height="650" src="https://spy-family.net/assets/img/bddvd/jk_vol3.jpg" />
-<img align="left" height="650" src="https://spy-family.net/assets/img/top/gallery_visual_09.jpg" />
-</div>
-
 &nbsp;
 &nbsp;
 
